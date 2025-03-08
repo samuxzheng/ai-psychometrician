@@ -16,6 +16,7 @@ The AI Psychometrician is a minimum viable product (MVP) that demonstrates how a
 
 ## Project Structure
 
+```
 ai_psychometrician/
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # Project dependencies
@@ -25,6 +26,7 @@ ai_psychometrician/
     ├── item_generator.py  # LLM-based item generation
     ├── scorer.py          # Response scoring logic
     └── adaptive_logic.py  # Adaptive test selection
+```
 
 ## Installation and Setup
 
