@@ -118,6 +118,10 @@ Common issues and solutions:
 - "streamlit: command not found": Ensure your virtual environment is activated and dependencies are installed
 - TypeErrors with session state: Fixed by renaming session variables to avoid conflicts
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ---
 
 Created as a demonstration of AI-augmented psychological assessment 
