@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "text": "I often feel anxious in social situations.",
+      "type": "likert_5",
+      "domain": "anxiety",
+      "difficulty": 0.2
+    },
+    {
+      "id": 2,
+      "text": "I find it difficult to concentrate on tasks for extended periods.",
+      "type": "likert_5",
+      "domain": "attention",
+      "difficulty": 0.3
+    },
+    {
+      "id": 3,
+      "text": "I frequently feel overwhelmed by my responsibilities.",
+      "type": "likert_5",
+      "domain": "stress",
+      "difficulty": 0.4
+    },
+    {
+      "id": 4,
+      "text": "I enjoy meeting new people and making new friends.",
+      "type": "likert_5",
+      "domain": "sociability",
+      "difficulty": 0.1
+    },
+    {
+      "id": 5,
+      "text": "I often feel down or depressed.",
+      "type": "likert_5",
+      "domain": "depression",
+      "difficulty": 0.5
+    },
+    {
+      "id": 6,
+      "text": "I tend to worry about things that might go wrong.",
+      "type": "likert_5",
+      "domain": "anxiety",
+      "difficulty": 0.6
+    },
+    {
+      "id": 7,
+      "text": "I find it easy to stick to a routine.",
+      "type": "likert_5",
+      "domain": "conscientiousness",
+      "difficulty": 0.7
+    },
+    {
+      "id": 8,
+      "text": "I often feel tired without any obvious reason.",
+      "type": "likert_5",
+      "domain": "fatigue",
+      "difficulty": 0.3
+    },
+    {
+      "id": 9,
+      "text": "I prefer to plan activities rather than be spontaneous.",
+      "type": "likert_5",
+      "domain": "conscientiousness",
+      "difficulty": 0.4
+    },
+    {
+      "id": 10,
+      "text": "I find it difficult to relax.",
+      "type": "likert_5",
+      "domain": "stress",
+      "difficulty": 0.5
+    }
+  ]
+} 
